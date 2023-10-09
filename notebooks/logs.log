@@ -1,0 +1,808 @@
+2023-10-08 15:23:18,818:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-08 15:23:18,819:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-08 15:23:18,819:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-08 15:23:18,819:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-08 15:38:13,449:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-08 15:38:13,449:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-08 15:38:13,449:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-08 15:38:13,449:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2023-10-08 15:40:39,103:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:40:41,463:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:40:43,785:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:40:46,764:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:40:48,451:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:40:51,170:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:40:53,845:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:40:56,184:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:40:59,289:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:41:02,358:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:41:04,033:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 15:49:53,461:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:49:53,461:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:49:53,462:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:49:53,463:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:51:35,340:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:51:35,340:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:51:35,341:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:51:35,342:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:51:35,411:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:51:35,411:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:51:35,413:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:51:35,413:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:51:35,498:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:51:35,498:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:51:35,501:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:51:35,501:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:53:16,848:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:53:16,848:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:53:16,849:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:53:16,849:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:53:16,922:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:53:16,922:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:53:16,923:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:53:16,923:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:53:17,013:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:53:17,013:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:53:17,014:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:53:17,014:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:54:59,320:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:54:59,320:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:54:59,321:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:54:59,321:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:54:59,383:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:54:59,383:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:54:59,384:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:54:59,385:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:54:59,453:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:54:59,453:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:54:59,454:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:54:59,454:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:56:41,633:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:56:41,633:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:56:41,635:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:56:41,635:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:56:41,710:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:56:41,710:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:56:41,712:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:56:41,712:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:56:41,800:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:56:41,800:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:56:41,802:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:56:41,802:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:58:23,396:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:58:23,396:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:58:23,398:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:58:23,398:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:58:23,460:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:58:23,460:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:58:23,461:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:58:23,462:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 15:58:23,549:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 15:58:23,549:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 15:58:23,551:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 15:58:23,551:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:00:04,973:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:00:04,973:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:00:04,975:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:00:04,975:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:00:05,073:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:00:05,073:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:00:05,075:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:00:05,075:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:00:05,163:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:00:05,163:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:00:05,165:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:00:05,165:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:01:42,577:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:01:42,577:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:01:42,579:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:01:42,579:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:01:42,643:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:01:42,643:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:01:42,645:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:01:42,645:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:01:42,725:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:01:42,725:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:01:42,726:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:01:42,726:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:03:23,976:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:03:23,977:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:03:23,978:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:03:23,979:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:03:24,050:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:03:24,050:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:03:24,051:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:03:24,051:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:03:24,153:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:03:24,153:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:03:24,154:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:03:24,154:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:05:05,773:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:05:05,773:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:05:05,775:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:05:05,775:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:05:05,839:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:05:05,839:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:05:05,841:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:05:05,841:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:05:05,917:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:05:05,918:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:05:05,919:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:05:05,919:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:06:47,939:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:06:47,940:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:06:47,941:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:06:47,941:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:06:47,995:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:06:47,995:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:06:47,996:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:06:47,996:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:06:48,040:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:06:48,040:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:06:48,041:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:06:48,042:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 16:08:29,796:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 16:08:29,796:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 16:08:29,798:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 16:08:29,798:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:48:44,232:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 17:48:46,174:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 17:48:48,326:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 17:48:49,750:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 17:48:52,626:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 17:48:55,008:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:460: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+2023-10-08 17:54:25,847:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:54:25,847:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:54:25,848:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:54:25,848:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:55:54,180:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:55:54,181:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:55:54,182:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:55:54,183:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:55:54,249:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:55:54,250:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:55:54,251:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:55:54,251:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:55:54,332:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:55:54,332:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:55:54,334:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:55:54,334:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:57:34,908:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:57:34,908:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:57:34,909:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:57:34,909:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:57:34,982:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:57:34,982:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:57:34,983:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:57:34,983:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:57:35,076:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:57:35,076:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:57:35,078:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:57:35,078:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:59:19,597:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:59:19,598:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:59:19,600:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:59:19,601:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:59:19,692:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:59:19,692:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:59:19,695:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:59:19,695:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 17:59:19,800:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 17:59:19,800:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 17:59:19,801:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 17:59:19,801:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:01:03,749:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:01:03,749:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:01:03,750:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:01:03,751:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:01:03,849:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:01:03,850:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:01:03,851:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:01:03,851:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:01:03,972:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:01:03,972:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:01:03,974:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:01:03,974:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:02:46,388:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:02:46,388:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:02:46,389:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:02:46,389:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:02:46,460:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:02:46,460:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:02:46,461:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:02:46,461:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:02:46,520:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:02:46,520:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:02:46,521:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:02:46,521:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:04:29,787:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:04:29,788:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:04:29,789:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:04:29,789:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:23:23,859:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:23:23,860:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:23:23,861:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:23:23,861:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 18:23:23,863:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:520: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(data):
+
+2023-10-08 18:25:09,016:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 18:25:09,016:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 18:25:09,019:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 18:25:09,019:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 20:08:20,046:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 20:08:20,055:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 20:08:20,057:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 20:08:20,058:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
+2023-10-08 20:08:26,350:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:335: FutureWarning: is_sparse is deprecated and will be removed in a future version. Check `isinstance(dtype, pd.SparseDtype)` instead.
+  if is_sparse(dtype):
+
+2023-10-08 20:08:26,351:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:338: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  is_categorical_dtype(dtype) or is_pa_ext_categorical_dtype(dtype)
+
+2023-10-08 20:08:26,352:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:384: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  if is_categorical_dtype(dtype):
+
+2023-10-08 20:08:26,352:WARNING:/home/wilmarsepulveda/anaconda3/envs/fraud-detection/lib/python3.10/site-packages/xgboost/data.py:359: FutureWarning: is_categorical_dtype is deprecated and will be removed in a future version. Use isinstance(dtype, CategoricalDtype) instead
+  return is_int or is_bool or is_float or is_categorical_dtype(dtype)
+
