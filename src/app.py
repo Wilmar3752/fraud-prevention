@@ -4,16 +4,13 @@ import joblib
 import numpy as np
 import json
 
-data = pd.read_csv('data/MercadoLibre Data Scientist Technical Challenge - Dataset.csv')
 pipeline = joblib.load('models/final_pipeline.joblib')
-ls = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'o','p', 'fecha', 'monto', 'score']
-data = data[ls]
+ls_template = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n', 'o','p', 'fecha', 'monto', 'score']
 def sentence_builder(a, b, c, d, e, f, g, h, j, k, l, m, n, o, p, fecha, monto, score):
     
     ls = [a, b, c, d, e, f, g, h, j, k, l, m, n, o, p, fecha, monto, score]
     df = pd.DataFrame(ls).T
-    
-    df.columns = data.columns
+    df.columns = ls_template
     df['a'] = df['a'].astype('int64')
     df['b'] = df['b'].astype('float64')
     df['c'] = df['c'].astype('float64')
