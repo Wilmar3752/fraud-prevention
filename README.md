@@ -58,9 +58,9 @@ La función `calcular_ganancia_total` recibe la matriz de confusión y calcula l
 
 La fórmula para calcular la ganancia total es:
 
-\[
+$$
 G_{total} = (TP \times \text{ganancia\_TP}) + (FP \times \text{ganancia\_FP}) + (TN \times \text{ganancia\_TN}) + (FN \times \text{ganancia\_FN})
-\]
+$$
 
 
  ## Model Deployment
