@@ -4,7 +4,7 @@ emoji: 🌍
 colorFrom: green
 colorTo: gray
 sdk: gradio
-sdk_version: 3.35.2
+sdk_version: 5.15.0
 app_file: src/app.py
 pinned: false
 license: mit
@@ -36,6 +36,31 @@ Para mejorar el pipeline anterior, se propone un método de selección de caract
 
 En el archivo [model_training.ipynb](notebooks/04-model%20_training.ipynb), se lleva a cabo el entrenamiento de varios modelos, y al final se selecciona XGBoost como el modelo que arroja los mejores resultados.
 
+### Explicación de la Función de Costos para Maximizar Ganancias
+
+La función de costos que se ha diseñado tiene como objetivo maximizar las ganancias de la empresa al ajustar el **umbral de decisión** de un modelo de clasificación de fraude. La **matriz de confusión** se utiliza para calcular las ganancias y pérdidas basadas en los valores de **verdaderos positivos (TP)**, **falsos positivos (FP)**, **verdaderos negativos (TN)** y **falsos negativos (FN)**.
+
+ Función `calcular_ganancia_total`
+
+La función `calcular_ganancia_total` recibe la matriz de confusión y calcula la ganancia total de la empresa con base en los valores de **TP**, **FP**, **TN** y **FN**. Las ganancias y pérdidas se calculan de la siguiente manera:
+
+- **Ganancia por transacciones legítimas correctamente identificadas (TN)**:
+  - Se asume que por cada transacción legítima correctamente identificada, la empresa gana un **25%** del valor de la transacción.
+  
+- **Pérdida por transacciones legítimas mal clasificadas (FP)**:
+  - Si una transacción legítima es clasificada erróneamente como fraude, la empresa pierde el **100%** del valor de esa transacción.
+
+- **Pérdida por fraudes no detectados (FN)**:
+  - Si un fraude no es detectado, la empresa pierde el **100%** del valor de esa transacción.
+
+- **Ganancia por fraudes correctamente detectados (TP)**:
+  - No hay ganancia adicional por identificar un fraude correctamente, ya que solo se evita la pérdida total.
+
+La fórmula para calcular la ganancia total es:
+
+\[
+G_{total} = (TP \times \text{ganancia\_TP}) + (FP \times \text{ganancia\_FP}) + (TN \times \text{ganancia\_TN}) + (FN \times \text{ganancia\_FN})
+\]
 
 
  ## Model Deployment
