@@ -33,7 +33,7 @@ def sentence_builder(a, b, c, d, e, f, g, h, j, k, l, m, n, o, p, fecha, monto, 
     df['monto'] = df['monto'].astype('float64')
     df['score'] = df['score'].astype('int64')
     predict_proba = pipeline.predict_proba(df)[:, 1]
-    predict = np.where(predict_proba<0.05018921, 'No fraude', 'Fraude')
+    predict = np.where(predict_proba<0.35, 'No fraude', 'Fraude')
     print(predict)
     output = {'probability':str(predict_proba[0]),
               'prediction':predict[0]}
